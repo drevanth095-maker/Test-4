@@ -36,6 +36,6 @@ Random Forest achieved the best performance with R² of 0.82
    These models can improves the stability and also useful to make  predictions 
    ML models can handle the realworld examples
    These supervised machine learning models for classification and Prediction
-       EX:- Email spam detection or any frauid detecting calls etc... 
+       EX:- Email spam detection or any frauid detecting calls etc.. 
 
 
